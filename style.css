@@ -1,0 +1,49 @@
+<style @media="screen">
+
+          @media (max width:500px)
+           {body{
+             font-size: 12px;
+             font-weight: lighter;
+           }
+
+
+
+          }
+          .header{
+            font-size:20px;
+            text-align: center;
+            padding: 10px;
+                }
+
+
+            .menu{
+                display:inline-block ;
+                position: relative;
+                white-space:nowrap;
+                font-size: 16px;
+                font-family: 'lato',sans-serif;
+                background-color: transparent;
+                text-align: center;
+                overflow: hidden;
+              }
+          #Hello>#link{
+            font-weight: bold;
+            font-size: 40px
+
+            }
+
+            .content{
+                  max-width: 700px;
+                  margin-left: auto;
+                  margin-right: auto;
+                }
+            .row>div{
+              padding: 20px;
+              background-color: inherit;
+              border: 2px solid black;
+              left: 25%;
+              right: auto;
+
+
+            }
+    </style>

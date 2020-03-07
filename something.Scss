@@ -1,0 +1,59 @@
+$color: blue;
+$mywidth:225px;
+$myheight:200px
+.main content {
+		font-size:16px
+		font-family:"Times New Roman", Times, serif;
+  }
+#menu{
+  	width:960px;
+  	margin:0 auto;
+  }
+article{
+  float:right;
+  width: 700px
+
+}
+aside{
+  float:left;
+  width: 260px
+}
+div.bang{
+  background-color: %color;
+  border: solid
+
+
+}
+div.box{
+	width:225px;
+	float:left;
+	border:1px solid #333;
+	margin:0px 3px;
+div.button{
+	background-color:#f3285b;
+	height:30px;
+	line-height:30px;
+	border-radius:5px;
+	color:#FFF;
+	padding:0 5px;
+}
+nav>ul>li>a:hover{
+	color:#FF0;
+nav{
+  ul li a{
+	padding:0px;
+	margin:0px;
+	list-style:none;
+	border-radius:10px;
+	background-color:#f73969;
+	text-align:center;
+	}
+}
+  div.a img{
+    width: 200px;
+    height: 200px;
+    transition-duration: 0.5s;
+  }
+div.a img:hover{
+transform:scale(1.5);
+}
