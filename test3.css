@@ -71,3 +71,15 @@ tr,th,td{
 		border-collapse: collapse;
 
 }
+.row{
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px
+}
+@media only screen and (min-width:768px) {
+	.a img{
+		width: 20%;
+		height: 20%;
+	}
+
+}

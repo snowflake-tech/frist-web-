@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "unkknow.css",
+	"sources": [
+		"project0/unkknow.SCSS"
+	],
+	"sourcesContent": [
+		"$color-blue: blue;\r\n$bg-color: #f1f1f1;\r\nbody {\r\n  .row {\r\n    font-size:14px;\r\n    font-weight: bold;\r\n    color: $color-blue;\r\n  }\r\n\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAEA,AACE,IADE,CACF,IAAI,CAAC;EACH,SAAS,EAAC,IAAI;EACd,WAAW,EAAE,IAAI;EACjB,KAAK,EANI,IAAI;CAOd"
+}
